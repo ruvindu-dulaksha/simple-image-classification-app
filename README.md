@@ -12,10 +12,7 @@ A simple and intuitive Flutter mobile app that classifies images of cats and dog
 
 ## Screenshots
 
-![App Interface](screenshots/app_interface.png)
-*Main app screen with image selection buttons.*
-
-![Classification Result](screenshots/classification_result.png)
+![Classification Result](screenshots/Screenshot_1766090700.png)
 *Example of cat/dog classification with confidence score.*
 
 ## Tech Stack
